@@ -1,5 +1,5 @@
-I'm Matin Mahtabi
-I'm a software enginreering major
+I'm Matin Mahtabi.
+I'm a software enginreering major.
 
 
 <!---
